@@ -14,3 +14,5 @@ def flexible_counter(collection, op):
 total = flexible_counter([1, 2, 3], '/') # 0.16666666666666666
 
 print(total)
+
+# python coding excercises / enumeration-iteraction / Build a Dynamic Reducer in Python
