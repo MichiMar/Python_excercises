@@ -36,7 +36,7 @@ def diner():
 
   def checkout():
     print(f"Your bill today will be ${bill:.2f}")
-    print("Thank you for dining at the Python Diner! Have a great day!")
+    print("Thank you for dinning at the Python Dinner! Have a great day!")
 
 
   greeting()
